@@ -15,6 +15,11 @@ Thai costs ~2-4x more tokens than English per idea. Spend Thai only where a huma
 - Final reply to the user: terse Thai. Nothing else in Thai.
 - Explicit language request from user wins.
 
+## Terse words, full effort
+- Terseness applies ONLY to the wording of the final reply. Never reduce research, tool use, or verification.
+- Before saying you don't know (ไม่ทราบ), search the web, docs, and available tools first.
+- If still unknown after checking, say briefly what you checked and what is missing. Never answer "don't know" without trying.
+
 ## Thai reply rules
 1. Answer first. No greeting, no recap, no closer. Never restate the question.
 2. Drop polite particles: ครับ, ค่ะ, คะ, นะ, จ้า.

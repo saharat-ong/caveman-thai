@@ -1,3 +1,5 @@
+🇹🇭 [อ่านภาษาไทย](README.th.md)
+
 <div align="center">
 
 <img src="docs/assets/caveman-logo-banner.png" alt="Caveman" width="720">
